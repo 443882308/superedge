@@ -1,6 +1,8 @@
 English | [简体中文](./README_CN.md)
 
 # SuperEdge
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F443882308%2Fsuperedge.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F443882308%2Fsuperedge?ref=badge_shield)
+
 
 ## What is SuperEdge?
 
@@ -88,3 +90,6 @@ If you encounter any failure in the process of using SuperEdge, you can use [Con
 ## License
 
 [**Apache License 2.0**](./LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F443882308%2Fsuperedge.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F443882308%2Fsuperedge?ref=badge_large)
